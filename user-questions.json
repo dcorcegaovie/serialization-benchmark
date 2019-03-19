@@ -1,0 +1,1 @@
+{"id":"users/339475275/questions","response_time":[{"percentiles":{"10":0,"25":0,"50":0,"75":0,"90":0},"period":14,"sample":0,"unanswered_questions":0},{"percentiles":{"10":0,"25":0,"50":0,"75":0,"90":0},"period":28,"sample":0,"unanswered_questions":0},{"percentiles":{"10":3,"25":3,"50":3,"75":61323,"90":61323},"period":120,"sample":2,"unanswered_questions":0.5}]}
